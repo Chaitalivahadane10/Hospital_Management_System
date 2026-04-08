@@ -1,2 +1,1 @@
-# Hospital_Management_System
-Hospital Management System built with Python &amp; Streamlit
+Hospital Management System Project using Python and StreamlitHospital Management System Project using Python and Streamlit

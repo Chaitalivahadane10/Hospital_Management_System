@@ -23,7 +23,6 @@ This project demonstrates a practical CRUD application with a clean and interact
 - Modular code structure (`modules/patient.py`, `modules/doctor.py`, `modules/appointment.py`)  
 
 
-## **Screenshots**
 ## Screenshots
 
 ### 1️⃣ Login Screen

@@ -24,15 +24,24 @@ This project demonstrates a practical CRUD application with a clean and interact
 
 
 ## **Screenshots**
+## Screenshots
 
-**Login Screen**  
-![Login Screen](screenshots/login.png)
+### 1️⃣ Login Screen
+![Login Screen](login.png)  
+Login page where users enter **username and password** to access the system.
 
-**Dashboard**  
-![Dashboard](screenshots/dashboard.png)
+### 2️⃣ Add Patient
+![Add Patient](add_patient.png)  
+Screen to add a **new patient** with name, age, gender, and disease details.
 
-**Add Patient / View Patients / Add Doctor / Book Appointment**  
-![Patient List](screenshots/patient_list.png)  
+### 3️⃣ View Patients
+![View Patients](view_patients.png)  
+Displays a **list of all patients** in the database with their details.
+
+### 4️⃣ Add Doctor
+![Add Doctor](add_doctor.png)  
+Screen to add a **new doctor** with name and specialization.
+
 
 
 ## **Getting Started**
